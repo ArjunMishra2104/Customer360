@@ -14,7 +14,7 @@ things a business can act on: **who your customers are** (segmentation),
 them** (personalized recommendations) — backed by a shared SQL layer that
 feeds both a Power BI dashboard and a live Streamlit app.
 
-**[Live Demo](https://arwcxhrpentxefuhrpbjtq.streamlit.app/)** &nbsp;•&nbsp; **[Power BI Dashboard](PASTE_LINK_HERE)** &nbsp;•&nbsp; **[Business Report](docs/Customer360_Bottleneck_Business_Report.docx)**
+**[Live Demo](https://arwcxhrpentxefuhrpbjtq.streamlit.app/)** &nbsp;•&nbsp; **[Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=2617b40e-3b41-4184-92ad-68d20fdae750&autoAuth=true&ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0)** &nbsp;•&nbsp; **[Business Report](docs/Customer360_Bottleneck_Business_Report.docx)**
 ![Demo](docs/demo.gif)
 
 ---
